@@ -1,2 +1,2 @@
-# L-ken
+# Loken
 Discord bot for discord server
